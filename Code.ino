@@ -1,3 +1,4 @@
+// Written by TheMasterOfCats https://github.com/TheMasterOfCats
 int liczbapina=9;
 void setup() {
 pinMode(liczbapina,OUTPUT);
